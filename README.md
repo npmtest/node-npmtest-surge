@@ -1,4 +1,7 @@
-# test coverage for  [surge (v0.19.0)](https://github.com/sintaxi/surge#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-surge.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-surge) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-surge.svg)](https://travis-ci.org/npmtest/node-npmtest-surge)
+# npmtest-surge
+
+#### basic test coverage for  [surge (v0.19.0)](https://github.com/sintaxi/surge#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-surge.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-surge) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-surge.svg)](https://travis-ci.org/npmtest/node-npmtest-surge)
+
 #### CDN for front-end developers
 
 [![NPM](https://nodei.co/npm/surge.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/surge)
